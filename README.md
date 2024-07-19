@@ -1,4 +1,4 @@
-# TCS3200_Color_Detection
+# TCS3200_Color_Detection                                                                                                                                                                                                     
 This repository contains Arduino code and documentation for interfacing the TCS3200 color sensor with Arduino for color detection applications.
 
 **Table of Contents**
