@@ -1,12 +1,12 @@
 # TCS3200_Color_Detection                                                                                                                                                                                                     
 This repository contains Arduino code and documentation for interfacing the TCS3200 color sensor with Arduino for color detection applications.
 
-**Table of Contents**
-Introduction
-Setup Instructions
-Installation
-Calibration
-Contributing
+**Table of Contents**                                                                                                                                                                                                     
+Introduction                                                                                                                                                                                                     
+Setup Instructions                                                                                                                                                                                                     
+Installation                                                                                                                                                                                                     
+Calibration                                                                                                                                                                                                     
+Contributing                                                                                                                                                                                                     
 
 **Introduction**
 The TCS3200 color sensor is a versatile module that can detect and measure the intensity of light across the visible spectrum. When paired with an Arduino, it enables color detection and identification by measuring the RGB (Red, Green, Blue) components of light reflected from a surface.
